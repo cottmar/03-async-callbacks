@@ -11,7 +11,7 @@ fileReader.readDataFilesAsync = (filePath, callback) => {
       if (error) {
         throw error;
       }
-      return callback(fileBuffer.toString('utf8', 0));
+      return callback(null, fileBuffer.toString('utf8', 0));
     })
 };
 
