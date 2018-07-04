@@ -2,34 +2,34 @@
 ===
 
 ## Submission Instructions
-<!-- * Work in a fork of this repository -->
-<!-- * Work in a branch on your fork -->
-<!-- * Write all of your code in a directory named `lab-` + `<your name>` **e.g.** `lab-susan` -->
+* Work in a fork of this repository
+* Work in a branch on your fork
+* Write all of your code in a directory named `lab-` + `<your name>` **e.g.** `lab-susan`
 * Open a pull request to this repository
 * Submit on canvas a question and observation, how long you spent, and a link to your pull request
 
 ## Resources
 * [fs module docs](https://nodejs.org/api/fs.html)
 
-<!-- ## Configuration
-Configure the root of your repository with the following files and directories. Thoughfully name and organize any aditional configuration or module files. -->
-<!-- * **README.md** - contains documentation -->
-<!-- * **.gitignore** - contains a [robust](http://gitignore.io) `.gitignore` file -->
-<!-- * **.eslintrc** - contains the course linter configuratoin -->
-<!-- * **.eslintignore** - contains the course linter ignore configuration -->
-<!-- * **package.json** - contains npm package config -->
-  <!-- * create a `lint` script for running eslint -->
-  <!-- * create a `test` script for running tests -->
-<!-- * **lib/** - contains module definitions -->
-<!-- * **data/** - contains the text files used by the program -->
-<!-- * **\_\_test\_\_/** - contains unit tests -->
-<!-- 
+## Configuration
+Configure the root of your repository with the following files and directories. Thoughfully name and organize any aditional configuration or module files.
+* **README.md** - contains documentation 
+* **.gitignore** - contains a [robust](http://gitignore.io) `.gitignore` file
+* **.eslintrc** - contains the course linter configuratoin
+* **.eslintignore** - contains the course linter ignore configuration
+* **package.json** - contains npm package config
+  * create a `lint` script for running eslint
+  * create a `test` script for running tests
+* **lib/** - contains module definitions
+* **data/** - contains the text files used by the program
+* **\_\_test\_\_/** - contains unit tests
+
 ## Testing
 ##### File Reader Module Tests
 * Use `describe` and `it` (or `test`) methods to define descriptive tests and increase readability
 * Each `it` callback should aim to test a small, well defined, feature of a function
 * Write tests to ensure that the reader function rejects errors with invalid file paths
-* Write tests to ensure that the reader function correctly resolves mapped string data for an array of file paths -->
+* Write tests to ensure that the reader function correctly resolves mapped string data for an array of file paths
 
 ## Feature Tasks
 ##### File Reader Module
